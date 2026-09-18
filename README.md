@@ -12,7 +12,6 @@ Aspiring MERN Full Stack Developer | B.Sc CS (DU) | Building projects with React
 ![](https://streak-stats.demolab.com/?user=kg877253&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kg877253&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=kg877253&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
