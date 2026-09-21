@@ -2,7 +2,7 @@
 Aspiring MERN Full Stack Developer | B.Sc CS (DU) | Building projects with React, Node & MongoDB | DSA enthusiast
 
 - 🎓 B.Sc. (Hons.) Physical Science with Computer Science, Delhi University (2nd year)
-- 🏆 Top 800 of 32,000+ teams — Scaler x Meta AI PyTorch Hackathon 2026 (built an RL-based Student Opportunity Finder)
+-  Top 800 of 32,000+ teams — Scaler x Meta AI PyTorch Hackathon 2026 (built an RL-based Student Opportunity Finder)
 - 🩺 Built **MediRoute** — an AI-powered healthcare navigation app (React + Node.js + Gemini API), for the Bharat Academix CodeQuest 2026 hackathon
 -  Practicing DSA daily in C++ — arrays, recursion, trees, graphs, DP
 -  Currently learning Next.js & exploring open source contributions
