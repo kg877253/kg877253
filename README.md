@@ -5,7 +5,7 @@ Aspiring MERN Full Stack Developer | B.Sc CS (DU) | Building projects with React
 - 🏆 Top 800 of 32,000+ teams — Scaler x Meta AI PyTorch Hackathon 2026 (built an RL-based Student Opportunity Finder)
 - 🩺 Built **MediRoute** — an AI-powered healthcare navigation app (React + Node.js + Gemini API), for the Bharat Academix CodeQuest 2026 hackathon
 - 🧩 Practicing DSA daily in C++ — arrays, recursion, trees, graphs, DP
-- 🌱 Currently learning Next.js & exploring open source contributions
+-  Currently learning Next.js & exploring open source contributions
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartk_gupta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikgupta8/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kg877253@gmail.com)
