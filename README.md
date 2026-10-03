@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Aspiring MERN Full Stack Developer | B.Sc CS (DU) | Building projects with React, Node & MongoDB | DSA enthusiast
 
 -  B.Sc. (Hons.) Physical Science with Computer Science, Delhi University (2nd year)
